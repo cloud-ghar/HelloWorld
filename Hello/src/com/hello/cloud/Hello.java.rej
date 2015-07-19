@@ -1,0 +1,9 @@
+diff a/Hello/src/com/hello/cloud/Hello.java b/Hello/src/com/hello/cloud/Hello.java	(rejected hunks)
+@@ -5,7 +5,5 @@
+ 	{
+ 		System.out.println("Hello World");
+ 		System.out.println("Changes have been made");
+-		
+-		System.out.println("Source Tree");
+ 	}
+ }
