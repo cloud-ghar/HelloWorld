@@ -5,7 +5,5 @@ public class Hello {
 	{
 		System.out.println("Hello World");
 		System.out.println("Changes have been made");
-		
-		System.out.println("Source Tree");
 	}
 }
