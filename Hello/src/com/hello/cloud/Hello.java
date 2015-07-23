@@ -17,7 +17,6 @@ public class Hello {
 		String juy="jjj";
 		
 		
-		System.out.println("asdf===== "+asdf);
-		System.out.println(juy);
+		
 	}
 }
