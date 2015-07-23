@@ -13,11 +13,12 @@ public class Hello {
 		
 		System.out.println("Hello World");System.out.println("Hello World");
 		
-		int asdf;
+		int asdf=10;
 		String juy="jjj";
 		
 		
-		
+		System.out.println("asdf===== "+asdf);
+		System.out.println(juy);
 		
 	}
 }
