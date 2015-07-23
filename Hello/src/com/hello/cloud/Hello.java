@@ -20,5 +20,6 @@ public class Hello {
 		System.out.println("asdf===== "+asdf);
 		System.out.println(juy);
 		
+		String name = "ranjeet";
 	}
 }
